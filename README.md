@@ -1,7 +1,7 @@
 # Month-AOV-Trend-2022- Using Google Looker 
 
 Project Title: Month AOV 2022 with Google Looker Studio Click on the below link to view the dashboard:
-https://lookerstudio.google.com/s/rOnxE9TOHgE
+https://lookerstudio.google.com/s/gW0ZmHALFVQ
 
 Project Description: This project analyzes the Average Order Value (AOV) trend over time for the year 2022 to help the Sales Team track month-over-month changes in customer spending.
 
